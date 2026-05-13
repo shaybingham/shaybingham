@@ -1,8 +1,11 @@
 # Hi, I'm Shay 👋
 
-🔐 Security Engineer  
+🔐 Triage Security Engineer | Incident Response | Threat Detection  
 💻 Focused on incident response & detection  
-🚀 Interested in automation & threat hunting  
+🚀 Current Focus
+- Detection engineering & SIEM tuning  
+- Threat hunting across identity and endpoint logs  
+- Automating investigation workflows (PowerShell / Python)  
 
 ---
 
@@ -39,4 +42,5 @@
 
 ## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shay%20%7C%20Security%20Engineer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shay-bingham-39b053126)
+
 
