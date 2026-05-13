@@ -15,6 +15,6 @@
 ---
 
 ## 📫 Contact
-- LinkedIn:
+- LinkedIn: https://www.linkedin.com/in/shay-bingham-39b053126
 - Email:
 ``
